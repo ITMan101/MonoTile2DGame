@@ -1,0 +1,3 @@
+﻿<GameScene>{
+	<Constructor>(int seed, string/File worldSave) { }
+}
